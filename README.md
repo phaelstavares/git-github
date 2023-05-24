@@ -1,2 +1,2 @@
 # git-github
- Curso de Git e GitHub do Curso em Vídeo.
+ PDF do Curso: Git e GitHub do Curso em Vídeo.
